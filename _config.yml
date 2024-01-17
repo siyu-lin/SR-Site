@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Steven Lin and Rosemary Luo
   author__bio: We will share and record our own stories on this site.
-  author__avatar: './images/01.jpg'
+  author__avatar: './images/White_Sands.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -31,7 +31,7 @@ social:
 hero:
   hero__title: Steven Lin and Rosemary Luo
   hero__description: We will share and record our own stories on this site.
-  hero__image: './images/01.jpg'
+  hero__image: './images/White_Sands.jpg'
 
 
 #-------------------------------
