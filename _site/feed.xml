@@ -3,10 +3,10 @@
     <channel>
         <title>SR</title>
         <description>Rosemary and Steven&apos;s personal blogging website</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Jan 2024 17:49:09 -0800</pubDate>
-        <lastBuildDate>Wed, 17 Jan 2024 17:49:09 -0800</lastBuildDate>
+        <link>http://localhost:4000/SR-Site/</link>
+        <atom:link href="http://localhost:4000/SR-Site/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 17 Jan 2024 18:02:49 -0800</pubDate>
+        <lastBuildDate>Wed, 17 Jan 2024 18:02:49 -0800</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
             <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/15-1.jpg#wide&quot; alt=&quot;River&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/SR-Site/images/15-1.jpg#wide&quot; alt=&quot;River&quot; /&gt;
 &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_w7CkrJdn1Q&quot;&gt;Jeroen Bendeler&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
@@ -38,7 +38,7 @@
 
 &lt;p&gt;Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/15-2.jpg&quot; alt=&quot;River&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/SR-Site/images/15-2.jpg&quot; alt=&quot;River&quot; /&gt;
 &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/tf3kYSFjEJ0&quot;&gt;Jairph&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.&lt;/p&gt;
@@ -48,8 +48,8 @@
 &lt;p&gt;Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 07 Oct 2023 01:00:00 -0700</pubDate>
-                <link>http://localhost:4000/birthday-gift-for-rosemary</link>
-                <guid isPermaLink="true">http://localhost:4000/birthday-gift-for-rosemary</guid>
+                <link>http://localhost:4000/SR-Site/birthday-gift-for-rosemary</link>
+                <guid isPermaLink="true">http://localhost:4000/SR-Site/birthday-gift-for-rosemary</guid>
                 
                 <category>gift</category>
                 
@@ -66,7 +66,7 @@
 
 &lt;p&gt;Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/15-1.jpg#wide&quot; alt=&quot;River&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/SR-Site/images/15-1.jpg#wide&quot; alt=&quot;River&quot; /&gt;
 &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_w7CkrJdn1Q&quot;&gt;Jeroen Bendeler&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
@@ -85,7 +85,7 @@
 
 &lt;p&gt;Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/15-2.jpg&quot; alt=&quot;River&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/SR-Site/images/15-2.jpg&quot; alt=&quot;River&quot; /&gt;
 &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/tf3kYSFjEJ0&quot;&gt;Jairph&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.&lt;/p&gt;
@@ -95,8 +95,8 @@
 &lt;p&gt;Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 28 Dec 2022 04:01:35 -0800</pubDate>
-                <link>http://localhost:4000/the-last-frontier</link>
-                <guid isPermaLink="true">http://localhost:4000/the-last-frontier</guid>
+                <link>http://localhost:4000/SR-Site/the-last-frontier</link>
+                <guid isPermaLink="true">http://localhost:4000/SR-Site/the-last-frontier</guid>
                 
                 <category>story</category>
                 
