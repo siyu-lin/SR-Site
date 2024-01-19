@@ -6,16 +6,15 @@ date:   2022-12-28 15:01:35 +0300
 image:  '/images/Alaska_Aurora.jpg'
 tags:   [story, travel]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Jeroen Bendeler](https://unsplash.com/photos/_w7CkrJdn1Q) diversity and empowerment.
+## Chena Hot Spring
+In Alaska, the land of always winter, warm steam are rising up in a small town an hour away drive from the city of Fairbanks. It was at Chena Hot Springs. Two strangers were casually walking around the resort, shooting breaktaking photos of the winter scene. Rosemary approached Steven, 
+>'Could you take a photo of me over here with my camera?'
+>
+> <cite> Rosemary </cite>
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-### Synergistically evolve
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
-
-![River]({{site.baseurl}}/images/15-1.jpg#wide)
-*Photo by [Jeroen Bendeler](https://unsplash.com/photos/_w7CkrJdn1Q) on [Unsplash](https://unsplash.com/)*
+![Chena]({{site.baseurl}}/images/Chena.jpg)
+*Photo by Steven and Rosemary, our first portrait photo for each other*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
