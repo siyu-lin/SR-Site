@@ -13,7 +13,7 @@ In Alaska, the land of always winter, warm steam are rising up in a small town a
 > <cite> Rosemary </cite>
 
 
-![Chena]({{site.baseurl}}/images/Chena.jpg)
+![Chena]({{site.baseurl}}/images/Alaska_Aurora.jpg)
 *Photo by Steven and Rosemary, our first portrait photo for each other*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
