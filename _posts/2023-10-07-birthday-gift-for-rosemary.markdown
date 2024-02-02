@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Azure Matter
-description: A customade cyanotype that will last forever
+description: A custom-made cyanotype that will last forever
 date:   2023-10-07 08:00:00 +0000
 image:  '/images/Rosemary_Birthday_Gift_2023.jpg'
 tags:   [gift]
